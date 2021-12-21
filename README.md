@@ -1,0 +1,1 @@
+# Control-of-Double-pendulum-using-LQR-and-LQG
